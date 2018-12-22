@@ -8,7 +8,19 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
         <h1>👋</h1>
-        welcome aboard
+        <p>Hello there, my name is Naz.</p>
+        <p>
+          I'm a software engineer at{" "}
+          <a
+            href="https://monzo.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Monzo
+          </a>
+          .
+        </p>
+        <p>I live in London.</p>
       </Layout>
     );
   }

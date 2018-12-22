@@ -16,9 +16,9 @@ export default class Index extends React.Component {
             {posts.map(({ node: post }) => (
               <div className="content" key={post.id}>
                 <p>
+                  <small>{post.frontmatter.date}</small>
+                  <span> &bull; </span>
                   <Link className="has-text-primary" to={post.fields.slug}>
-                    <small>{post.frontmatter.date}</small>
-                    <span> &bull; </span>
                     {post.frontmatter.title}
                   </Link>
                 </p>

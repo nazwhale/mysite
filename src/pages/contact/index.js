@@ -53,7 +53,7 @@ export default class Index extends React.Component {
               <input name="bot-field" onChange={this.handleChange} />
             </label>
           </div>
-          <div className="field">
+          <div className="form-field">
             <label className="label" htmlFor={"name"}>
               Your name
             </label>
@@ -68,7 +68,7 @@ export default class Index extends React.Component {
               />
             </div>
           </div>
-          <div className="field">
+          <div className="form-field">
             <label className="label" htmlFor={"email"}>
               Email
             </label>
@@ -83,7 +83,7 @@ export default class Index extends React.Component {
               />
             </div>
           </div>
-          <div className="field">
+          <div className="form-field">
             <label className="label" htmlFor={"message"}>
               Message
             </label>
@@ -97,8 +97,8 @@ export default class Index extends React.Component {
               />
             </div>
           </div>
-          <div className="field">
-            <button className="button is-link" type="submit">
+          <div className="form-field">
+            <button className="" type="submit">
               Send
             </button>
           </div>

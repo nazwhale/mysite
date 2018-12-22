@@ -3,7 +3,8 @@
 $font-family-code: source-code-pro, Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace
 $primary-color: #333
 $text-color: white
-$active-color: red
+$link-color: hotpink
+$active-color: #FF8A76
 
 body
   font: 100% $font-family-code
@@ -11,22 +12,30 @@ body
   background-color: $primary-color
   padding: 2% 5%
 
+
 // remove default hyperlink styling
 a
   text-decoration: none
   color: inherit
 
+a
+  color: $link-color
+
+a
+
+button
+  height: 30px
+  width: 60px
+  background-color: $link-color
+  border: none
+  border-radius: 2px
+
 .navbar
   padding-bottom: 20px
 
-.footer
-  padding-top: 20px
-  display: flex
-  flex-direction: row-reverse
+.form-field
+  padding-bottom: 15px
 
-.footer-img
-  height: 30px
-  width: 30px
 
 .flex-container
   display: flex
