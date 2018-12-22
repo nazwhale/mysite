@@ -1,6 +1,6 @@
 
 // Config vars
-$font-family-code: source-code-pro, Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace
+$font-family-code: 'Raleway', 'Lato', source-code-pro, Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace
 $primary-color: #333
 $text-color: white
 $link-color: hotpink
@@ -8,6 +8,7 @@ $active-color: #FF8A76
 
 body
   font: 100% $font-family-code
+  letter-spacing: 0.05em
   color: $text-color
   background-color: $primary-color
   padding: 1% 5%
@@ -33,7 +34,7 @@ button
   grid-template-columns: auto 800px auto
 
 .navbar
-  align-self: center;
+  align-self: center
   grid-row: 1 / 2
   grid-column: 2 / 3
 
@@ -42,6 +43,10 @@ button
   grid-column: 2 / 3
 
 // navbar
+.flex-container
+  display: flex
+  justify-content: space-between
+
 .navbar-item
   color: white
 
@@ -62,9 +67,6 @@ button
 .form-control textarea
   width: 150px
 
-.flex-container
-  display: flex
-  justify-content: space-between
 
 // blog posts
 .blog-post--intro
