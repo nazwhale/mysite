@@ -28,9 +28,7 @@ According to them I am at scooter level.
 
 My [Codewars](http://codewars.com) binges are slowly paying off, and I do really feel like they’re stretching my brain and making me a better coder. Reached 5 kyu about an hour ago which made me swell with pride. I celebrated by eating half a triangle of brie.
 
-![my brand new badge for being such a clever boy](https://cdn-images-1.medium.com/max/2000/1*iFmo7kdXMhkmiUTU41Hh9w.png)
-
-*my brand new badge for being such a clever boy*
+<center><img src="https://cdn-images-1.medium.com/max/2000/1*iFmo7kdXMhkmiUTU41Hh9w.png"></img><h5>my brand new badge for being such a clever boy</h5></center>
 
 Whilst I love my little badge, it does feel a tad undeserved, seeming as I spent 45 mins on an (easier) 6 kyu to get there and nearly stabbed myself in the eye with a fork in the process.
 
@@ -66,7 +64,7 @@ Other pre-pre-course work consisted of completing the [Codecademy course on the 
 
 For the unenlightened, the Command Line is the important looking black screen that hackers in movies are always using. When my mum sees me using it, she thinks I’ve got *really* good at this stuff. In reality I’ve just been learning how to navigate around files and folders and programme it to say “Hi Naz” every time I open it.
 
-![the super serious Command Line](https://cdn-images-1.medium.com/max/2000/1*Y2_IZlFRVLsT08_CgBI70g.png)*the super serious Command Line*
+<center><img src="https://cdn-images-1.medium.com/max/2000/1*Y2_IZlFRVLsT08_CgBI70g.png"></img><h5>the super serious Command Line</h5></center>
 
 Whilst not learning, I’ve been trying to direct my procrastination towards stuff thats relevant to programming/tech/etc.
 
