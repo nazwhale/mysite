@@ -32,12 +32,38 @@ export default class IndexPage extends React.Component {
           </p>
           <p>
             Exploring different designs, new ways of creating things, silly
-            little diversions.
+            little diversions. In the future I'd like to hide lots of weird
+            little easter eggs around it. Perhaps I already have?
           </p>
           <p>
             I've also included some of my scribbles in the{" "}
             <Link to="/blog/">Blog </Link>
             section.
+          </p>
+        </div>
+        <div className="content-block">
+          <h2>how'd ya make it?</h2>
+          <p>
+            This site is built with Gatsby and Netlify CMS, which makes it
+            speedy and easy to update. Have a poke around the code for it{" "}
+            <a
+              href="https://github.com/nazwhale/mysite"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              if you like.
+            </a>
+          </p>
+          <p>
+            I wanted a good width for reading, so I copied{" "}
+            <a
+              href="https://medium.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Medium
+            </a>
+            .
           </p>
         </div>
       </Layout>
