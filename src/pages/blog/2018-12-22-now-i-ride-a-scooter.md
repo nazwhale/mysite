@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Now I Ride a Scooter
-date: 2018-01-07T19:41:27.222Z
+date: 2017-02-07T19:41:27.222Z
 description: >-
   I started programming sometime around January 2017, at a bootcamp in East
   London called Makers. 
