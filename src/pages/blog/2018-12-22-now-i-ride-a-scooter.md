@@ -24,7 +24,7 @@ I’ve become hopelessly addicted to [TypingClub](https://www.typingclub.com/) a
 
 According to them I am at scooter level.
 
-![](https://cdn-images-1.medium.com/max/2340/1*WeM_M87JkbAcSnspR630aA.png)
+<center><img src="https://cdn-images-1.medium.com/max/2340/1*WeM_M87JkbAcSnspR630aA.png"></img></center>
 
 My [Codewars](http://codewars.com) binges are slowly paying off, and I do really feel like they’re stretching my brain and making me a better coder. Reached 5 kyu about an hour ago which made me swell with pride. I celebrated by eating half a triangle of brie.
 
@@ -58,7 +58,7 @@ The coding community really recognises the value of gold stars etc.
 
 In other news, I made a baby dragon tamagotchi.
 
-![exercise taken from the excellent [‘Learn to Programme’ by Chris Pine](https://pine.fm/LearnToProgram/)](https://cdn-images-1.medium.com/max/2000/1*IeJOrm976rbnMVlEZtv8vg.png)*exercise taken from the excellent [‘Learn to Programme’ by Chris Pine](https://pine.fm/LearnToProgram/)*
+<center><img src="https://cdn-images-1.medium.com/max/2000/1*IeJOrm976rbnMVlEZtv8vg.png"></img><h5>exercise taken from the excellent <a href="https://pine.fm/LearnToProgram/">‘Learn to Programme’ by Chris Pine</a></h5></center>
 
 Other pre-pre-course work consisted of completing the [Codecademy course on the Command Line](https://www.codecademy.com/learn/learn-the-command-line). As usual with Codecademy the course was a breeze but left me baffled at the thought of practically using what I had learnt. Their teaching style is just way too passive, meaning you can complete things by just following instructions and not thinking a bit. Still, perhaps a useful introduction to a few concepts.
 
@@ -70,9 +70,8 @@ Whilst not learning, I’ve been trying to direct my procrastination towards stu
 
 [This article](https://medium.freecodecamp.com/0-100-from-no-experience-to-a-6-figure-sf-design-job-in-12-months-cd7546034077) got me interested in User Experience Design (UX) (don’t be put off by the click-bait-y title). It’s all about making the way we interact with apps as frictionless and pleasurable as possible. That put me on to [this link](http://www.useronboard.com/), which was great for giving examples of the thought processes that UX people go through when designing an app. Hopefully it’ll come in useful for some of the projects at Makers.
 
-And this thing below I can’t wait to try (not just because the thumbnail looks like an alien’s vagina):
-[**How to get free wifi on public networks**
-*This short tutorial describes a few methods for gaining access to the internet, a basic human right, from public…*medium.freecodecamp.com](https://medium.freecodecamp.com/free-wifi-on-public-networks-daf716cebc80)
+And this thing below I can’t wait to try (the thumbnail looks like an alien’s vagina):
+[How to get free wifi on public networks](https://medium.freecodecamp.com/free-wifi-on-public-networks-daf716cebc80)
 
 *I just decided I’m gonna post a song every time I write a thing*
 
@@ -82,6 +81,6 @@ I can’t stop listening to this Foxygen tune. It’s camp as hell, there’s sw
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/_-tZ1gbc2pQ" frameborder="0" allowfullscreen></iframe></center>
 
-![](https://cdn-images-1.medium.com/max/2000/1*tjJoW_Kmgc19RrnOcauZyg.png)
+<center><img src="https://cdn-images-1.medium.com/max/2000/1*tjJoW_Kmgc19RrnOcauZyg.png"></img></center>
 
-*If you read past the tapir, chances are you read the whole thing. If you enjoyed it, please click the little heart below. It’ll help others find this and enjoy it too.*
+
