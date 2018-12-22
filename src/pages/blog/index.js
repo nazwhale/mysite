@@ -10,6 +10,7 @@ export default class Index extends React.Component {
 
     return (
       <Layout>
+        <h1>✏️</h1>
         <section className="section">
           <div className="container">
             {posts.map(({ node: post }) => (
