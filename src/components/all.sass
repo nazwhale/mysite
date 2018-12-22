@@ -10,10 +10,8 @@ body
   font: 100% $font-family-code
   color: $text-color
   background-color: $primary-color
-  padding: 2% 5%
+  padding: 1% 5%
 
-
-// remove default hyperlink styling
 a
   text-decoration: none
   color: $link-color
@@ -28,8 +26,20 @@ button
   text-transform: uppercase
   font-weight: bold
 
+// setup the grid
+.all-content
+  display: grid
+  grid-template-rows: 80px auto 50px
+  grid-template-columns: auto 800px auto
+
 .navbar
-  padding-bottom: 20px
+  align-self: center;
+  grid-row: 1 / 2
+  grid-column: 2 / 3
+
+.all-children
+  grid-row: 2 / 3
+  grid-column: 2 / 3
 
 .navbar-item
   color: white
@@ -43,53 +53,15 @@ button
 .form-control textarea
   width: 150px
 
-
 .flex-container
   display: flex
   flex-wrap: wrap
   justify-content: space-around
-  padding: 0 20vw
   text-decoration: none
-
-
 
 .navbar-item--active
   color: $active-color
 
-//
-// .content
-//   margin-right: 30px
-//   width: 300px
-//   height: 300px
-//
-// .content .taglist
-//   list-style: none
-//   margin-left: 0
-//   margin-right: 1.5rem
-//   margin-top: 1.5rem
-//
-//   display: flex
-//   flex-wrap: wrap
-//   // justify-content: left
-//   // align-items: center
-//   li
-//     padding: 0 2rem 1rem 0
-//     margin-bottom: 1.5rem
-//     margin-top: 0
-//
-// // Helper Classes
-// .full-width-image-container
-//   width: 100vw
-//   height: 400px
-//   position: relative
-//   left: 50%
-//   right: 50%
-//   margin: 5em -50vw
-//   background-size: cover
-//   background-position: bottom
-//   display: flex
-//   justify-content: center
-//   align-items: center
-//
-// .margin-top-0
-//   margin-top: 0 !important
+// blog posts
+.blog-post--intro
+  font-style: italic
