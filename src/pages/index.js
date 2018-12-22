@@ -28,12 +28,12 @@ export default class IndexPage extends React.Component {
           <h2>what is this place?</h2>
           <p>
             At the moment this site is mainly for my personal programming
-            explorations.
+            excursions.
           </p>
           <p>
-            Exploring different designs, new ways of creating things, silly
-            little diversions. In the future I'd like to hide lots of weird
-            little easter eggs around it. Perhaps I already have?
+            Things like exploring different designs, new ways of creating
+            things, silly little diversions. In the future I'd like to hide lots
+            of weird little easter eggs around it. Perhaps I already have?
           </p>
           <p>
             I've also included some of my scribbles in the{" "}
