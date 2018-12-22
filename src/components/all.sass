@@ -2,11 +2,12 @@
 // Config vars
 $font-family-code: source-code-pro, Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace
 $primary-color: #333
-$secondary-color: red
+$text-color: white
+$active-color: red
 
 body
   font: 100% $font-family-code
-  color: white
+  color: $text-color
   background-color: $primary-color
   padding: 2% 5%
 
@@ -17,6 +18,15 @@ a
 
 .navbar
   padding-bottom: 20px
+
+.footer
+  padding-top: 20px
+  display: flex
+  flex-direction: row-reverse
+
+.footer-img
+  height: 30px
+  width: 30px
 
 .flex-container
   display: flex
@@ -29,7 +39,7 @@ a
 
 
 .navbar-item--active
-  color: $secondary-color
+  color: $active-color
 
 //
 // .content
