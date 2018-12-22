@@ -6,8 +6,14 @@ $secondary-color: red
 
 body
   font: 100% $font-family-code
-  color: $primary-color
+  color: white
+  background-color: $primary-color
   padding: 2% 5%
+
+// remove default hyperlink styling
+a
+  text-decoration: none
+  color: inherit
 
 .navbar
   padding-bottom: 50px
@@ -17,9 +23,10 @@ body
   flex-wrap: wrap
   justify-content: space-around
   padding: 0 500px
+  text-decoration: none
 
 .navbar-item
-  text-decoration: none
+
 
 .navbar-item--active
   color: $secondary-color
