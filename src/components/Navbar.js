@@ -27,24 +27,36 @@ const Navbar = class extends React.Component {
 
   render() {
     return (
-      <nav
-        className="navbar is-transparent"
-        role="navigation"
-        aria-label="main-navigation"
-      >
-        <div className="container">
-          <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Name">
+      <nav className="navbar" role="navigation" aria-label="main-navigation">
+        <div className="flex-container">
+          <div className="navbar-root">
+            <Link
+              to="/"
+              className="navbar-item"
+              activeClassName="navbar-item--active"
+              title="Name"
+            >
               Naz Malik
             </Link>
           </div>
-          <div id="navMenu" className="navbar-menu">
-            <Link className="navbar-item" to="/blog">
+          <div className="navbar-root">/</div>
+          <div id="navMenu" className="navbar-blog">
+            <Link
+              className="navbar-item"
+              activeClassName="navbar-item--active"
+              to="/blog/"
+            >
               Blog
             </Link>
           </div>
-          <div className="navbar-brand">
-            <Link to="/contact" className="navbar-item" title="Name">
+          <div className="navbar-root">/</div>
+          <div className="navbar-contact">
+            <Link
+              to="/contact/"
+              className="navbar-item"
+              activeClassName="navbar-item--active"
+              title="Name"
+            >
               Contact
             </Link>
           </div>
