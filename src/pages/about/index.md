@@ -1,7 +1,7 @@
 ---
 templateKey: "about-page"
 path: /about
-title: About Tapir
+title: About this site
 ---
 
 Limited Edition Prints, from real artists

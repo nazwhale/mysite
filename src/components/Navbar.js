@@ -34,30 +34,19 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <div
-                style={{
-                  width: "20px",
-                  height: "20px",
-                  backgroundColor: "blue",
-                  marginRight: "10px"
-                }}
-              />
-              Tapir
+            <Link to="/" className="navbar-item" title="Name">
+              Naz Malik
             </Link>
-            {/* Hamburger menu */}
-            <div className="navbar-burger burger" data-target="navMenu">
-              <span />
-              <span />
-              <span />
-            </div>
           </div>
           <div id="navMenu" className="navbar-menu">
-            <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>
-            </div>
+            <Link className="navbar-item" to="/blog">
+              Blog
+            </Link>
+          </div>
+          <div className="navbar-brand">
+            <Link to="/contact" className="navbar-item" title="Name">
+              Contact
+            </Link>
           </div>
         </div>
       </nav>
