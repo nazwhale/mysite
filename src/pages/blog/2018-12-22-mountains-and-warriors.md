@@ -69,7 +69,7 @@ Also, when you finish you get to bang a gong.
 
 
 
-Now I’ve got 3 weeks to get ready for the pre-course. I’ve done a bit of digging into the blogs of ex-Makers students to find out what’s in store. It looks like the pre-course consists of getting comfortable with the Command Line, Git (a version control platform for coders use to store their work and contribute the work of others) and getting more comfortable with Ruby. So I’m gonna try and get a head start with some Codecademy stuff in the meantime. In addition to that, \[Codewars](https://www.codewars.com/) has been superb in pushing my Ruby skills, so I’ll aim to carry on with that, as well as the Ruby Koans, which simultaneously introduce coding and Zen Philosophy.
+Now I’ve got 3 weeks to get ready for the pre-course. I’ve done a bit of digging into the blogs of ex-Makers students to find out what’s in store. It looks like the pre-course consists of getting comfortable with the Command Line, Git (a version control platform for coders use to store their work and contribute the work of others) and getting more comfortable with Ruby. So I’m gonna try and get a head start with some Codecademy stuff in the meantime. In addition to that, [Codewars](https://www.codewars.com/) has been superb in pushing my Ruby skills, so I’ll aim to carry on with that, as well as the Ruby Koans, which simultaneously introduce coding and Zen Philosophy.
 
 
 
@@ -85,7 +85,7 @@ On a typical kata I’ll think for 25 minutes and write 12 lines of code, before
 
 
 
-AND in addition to all that, I’m teaching myself (on the advice of Nikesh at makers) how to type all over again. I’m using \[TypingClub](https://www.typingclub.com/), which it turns out is a pretty great site (and free!). So far I’ve learnt that my current typing technique is atrocious and am relearning the keyboard key-by-key. The general idea is to use all 10 fingers and to make the movement of each as economical as possible. However, relearning something I’ve been doing nearly every day since I can remember is proving to be fucking confusing. Kind of fun though, in a perverted way. TypingClub tells me my typing speed is 15wpm. BABOOM.
+AND in addition to all that, I’m teaching myself (on the advice of Nikesh at makers) how to type all over again. I’m using [TypingClub](https://www.typingclub.com/), which it turns out is a pretty great site (and free!). So far I’ve learnt that my current typing technique is atrocious and am relearning the keyboard key-by-key. The general idea is to use all 10 fingers and to make the movement of each as economical as possible. However, relearning something I’ve been doing nearly every day since I can remember is proving to be fucking confusing. Kind of fun though, in a perverted way. TypingClub tells me my typing speed is 15wpm. BABOOM.
 
 
 
