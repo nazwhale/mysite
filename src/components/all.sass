@@ -1,19 +1,25 @@
 
 // Config vars
-$font-family-code: 'Raleway', 'Lato', source-code-pro, Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace
+$font-family: 'Raleway', 'Lato'
+$font-family-code: "Source Code Pro", monospace
 $primary-color: #333
 $text-color: white
 $link-color: hotpink
 $active-color: #FF8A76
 
+$main-block-max-width: 740px
+
 // line height is the golden ratio, why not eh
 body
-  font: 100% $font-family-code
+  font: 100% $font-family
   line-height: 1.618
   letter-spacing: 0.05em
   color: $text-color
   background-color: $primary-color
   padding: 1% 5%
+
+body img
+  max-width: $main-block-max-width
 
 a
   text-decoration: none
@@ -24,16 +30,20 @@ button
   width: 60px
   background-color: $link-color
   border: none
-  font-family: $font-family-code
+  font-family: $font-family
   letter-spacing: 0.1em
   text-transform: uppercase
   font-weight: bold
+
+code
+  font-size: 16px
+  font-family: $font-family-code
 
 // setup the grid
 .all-content
   display: grid
   grid-template-rows: 80px auto 50px
-  grid-template-columns: auto 740px auto
+  grid-template-columns: auto $main-block-max-width auto
 
 .navbar
   align-self: center

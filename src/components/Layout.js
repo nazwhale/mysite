@@ -44,7 +44,7 @@ const TemplateWrapper = ({ children }) => (
             color="#ff4400"
           />
           <link
-            href="https://fonts.googleapis.com/css?family=Lato|Raleway"
+            href="https://fonts.googleapis.com/css?family=Lato|Raleway|Source+Code+Pro"
             rel="stylesheet"
           />
           <meta name="theme-color" content="#fff" />
