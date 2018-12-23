@@ -33,7 +33,11 @@ const HomePage = ({ data }) => {
 
   return (
     <Layout>
-      <h1>👋</h1>
+      <h1>
+        <span role="img" aria-label="wave">
+          👋
+        </span>
+      </h1>
       <HomePageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

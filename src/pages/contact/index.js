@@ -36,7 +36,11 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <h1>✉️</h1>
+        <h1>
+          <span role="img" aria-label="letter">
+            ✉️
+          </span>
+        </h1>
         <form
           name="contact"
           method="post"
