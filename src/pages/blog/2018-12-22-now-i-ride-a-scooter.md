@@ -12,11 +12,13 @@ tags:
   - makers blog
   - coding
 ---
-*If you missed my last post, you can find it [here](https://medium.com/dude-wheres-my-code/mountains-and-warriors-33d849eba0c9#.8g8i2ot1x). If you’re hungry for more, [here’s the next](https://medium.com/codewhale/time-to-stop-floating-around-bdce613fefe7).*
+Preface: 
 
-*After reading through a bunch of blogs by people learning how to code, I’ve noticed a theme: pretty quickly, every one of them becomes completely incomprehensible. Of course, that is to say the writing becomes incomprehensible to **me**, because I’m just starting out. Code-y people can understand it.*
+After reading through a bunch of blogs by people learning how to code, I’ve noticed a theme: pretty quickly, every one of them becomes completely incomprehensible. Of course, that is to say the writing becomes incomprehensible to **me**, because I’m just starting out. Code-y people can understand it.
 
-*I’d like this to be understood by people who can’t code, because it’s so relevant a subject in today’s world and so many people hold the view that coding is too baffling to engage with. So from here on I’ll try and keep a habit of explaining everything as if you’re my mum. Hi mum.*
+I’d like this to be understood by people who can’t code, because it’s so relevant a subject in today’s world and so many people hold the view that coding is too baffling to engage with. So from here on I’ll try and keep a habit of explaining everything as if you’re my mum. Hi mum.
+
+---
 
 So it’s been 2 weeks since I was accepted to [Makers](http://www.makersacademy.com/) and some progress has been made. The pre-course is now 6 days away.
 
