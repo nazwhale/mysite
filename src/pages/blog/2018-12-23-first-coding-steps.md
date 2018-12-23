@@ -22,7 +22,7 @@ At this early stage you should optimise for learning. Forget about what's best p
 \
 Choosing something and getting going is a far optimal strategy to investing time up front to choose the "best" or "most in demand" language.\
 \
-This is because once you know one language, getting familiar with another is a relative doddle. In other words, it's easier to course correct once you understand the problem space a little better.
+This is because once you know one language, getting familiar with another is a relative doddle. In other words, it's easier to course correct once you understand the problem space a little better. Investing time on research up front when you know very little is an inefficient endeavour.
 
 Here's how to take that first bite:
 
