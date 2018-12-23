@@ -36,6 +36,7 @@ const HomePage = ({ data }) => {
 
   return (
     <Layout>
+      <h1>👋</h1>
       <HomePageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
