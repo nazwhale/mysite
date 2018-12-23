@@ -7,7 +7,7 @@ $text-color: white
 $link-color: hotpink
 $active-color: #FF8A76
 
-$main-block-max-width: 740px
+$main-block-max-width: 100%
 
 // line height is the golden ratio, why not eh
 body
@@ -35,15 +35,23 @@ button
   text-transform: uppercase
   font-weight: bold
 
-code
+pre code
+  max-width: $main-block-max-width
+  overflow: scroll
   font-size: 16px
   font-family: $font-family-code
+  display: inline-block
+  background-color: #4A4443
+  padding: 30px
+
+iframe
+  max-width: $main-block-max-width
 
 // setup the grid
 .all-content
   display: grid
   grid-template-rows: 80px auto 50px
-  grid-template-columns: auto $main-block-max-width auto
+  grid-template-columns: auto minmax(200px, 0.5fr) auto
 
 .navbar
   align-self: center
