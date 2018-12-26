@@ -68,7 +68,7 @@ const Navbar = class extends React.Component {
               activeClassName="navbar-item--active"
               title="Name"
             >
-              About
+              Contact
             </Link>
           </div>
         </div>
