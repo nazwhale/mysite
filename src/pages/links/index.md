@@ -2,7 +2,7 @@
 templateKey: links-page
 title: nice links
 ---
-Mind expanding words:
+To read:
 - [Paul Graham's blog](http://www.paulgraham.com/articles.html)
 - [Wait But Why](https://waitbutwhy.com/)
 
