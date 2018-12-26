@@ -2,8 +2,11 @@
 templateKey: links-page
 title: nice links
 ---
-To read:
+Mind expanding words:
+- [Paul Graham's blog](http://www.paulgraham.com/articles.html)
+- [Wait But Why](https://waitbutwhy.com/)
 
-So much good stuff in here by
-- <a href="http://www.paulgraham.com/articles.html" target="_blank" rel="noopener noreferrer>Paul Graham</a>.
-- <a href="https://waitbutwhy.com/" target="_blank" rel="noopener noreferrer>Wait But Why</a>.
+To watch:
+- [Short of the Week](https://www.shortoftheweek.com/)
+- [The Coding Train](https://www.youtube.com/user/shiffman)
+- [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
