@@ -29,6 +29,13 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "../"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/links/index.md"
+        label: "Links"
+        name: "links"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "links-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"

@@ -28,7 +28,7 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav className="navbar" role="navigation" aria-label="main-navigation">
-        <div className="flex-container">
+        <div className="navbar-flex-container">
           <div className="navbar-root">
             <Link
               to="/"
@@ -52,12 +52,23 @@ const Navbar = class extends React.Component {
           <div className="navbar-root">/</div>
           <div className="navbar-contact">
             <Link
+              to="/links/"
+              className="navbar-item"
+              activeClassName="navbar-item--active"
+              title="Name"
+            >
+              Links
+            </Link>
+          </div>
+          <div className="navbar-root">/</div>
+          <div className="navbar-contact">
+            <Link
               to="/contact/"
               className="navbar-item"
               activeClassName="navbar-item--active"
               title="Name"
             >
-              Contact
+              About
             </Link>
           </div>
         </div>
