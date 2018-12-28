@@ -14,3 +14,9 @@ Faves:
 - Anything by David Goggins
 - Tara Brach
 - Alan Watts
+
+I've also been thinking a bunch about my biggest two learnings from Kung-fu school: 
+- I love having a schedule
+- I can take way more pain than I think I can
+
+One of Goggins' quotes is "most people quit at 40%", and it feels true.
