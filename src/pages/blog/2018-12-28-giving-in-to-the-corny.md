@@ -17,7 +17,7 @@ Faves:
 
 I've also been thinking a bunch about my biggest learnings from Kung-fu school: 
 - I love having a schedule. 
-  - Having walls to keep you on track, rather than veering into scrolling on social media, is super valuable. It keeps me happy.
+  - Having walls to keep you on track, rather than veering into scrolling on social media, is super valuable. It keeps me happy and makes me super present for the thing I'm scheduled to do.
 - I can take way more pain than I think I can
   - One of Goggins' quotes is "most people quit at 40%", and it feels true.
 - I'm horrendous at getting out of bed. 
